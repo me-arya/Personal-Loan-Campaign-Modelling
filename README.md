@@ -1,0 +1,2 @@
+# Personal-Loan-Campaign-Modelling
+To build a model that will help the marketing department to identify the potential customers who have a higher probability of purchasing the loan.  To explore ways of converting its liability customers to personal loan customers (while retaining them as depositors) Expanding the asset customer base rapidly to bring in more loan business and in the process, earn more through the interest on loans To predict whether a liability customer will buy a personal loan or not and further to find the significance of different parameters.
